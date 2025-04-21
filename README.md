@@ -72,7 +72,7 @@ Hi, I'm **Md Tonmoy Sarkar**, a Senior Visualizer at *[Programming Hero](https:/
 ---
 <p align="center">
   <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/stats.png" width="35px" style="vertical-align: middle;" />
-  <span style="font-size: 1.5em; vertical-align: middle;">Tonmoy's GitHub Stats</span>
+  <span style="font-size: 1.5em; vertical-align: top;">Tonmoy's GitHub Stats</span>
 </p>
 
 
