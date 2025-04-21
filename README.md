@@ -1,4 +1,4 @@
-### Hey 👋, I'm **Md Tonmoy Sarkar**, goes by **Tonmoy**!
+# Hey 👋, I'm **Md Tonmoy Sarkar**, goes by **Tonmoy**!
 
 <a href="https://www.linkedin.com/in/tonmoy-sarkar/">
   <img align="left" alt="Tonmoy's LinkedIn" width="30px" src="https://img.icons8.com/ios-filled/50/0077B5/linkedin.png" />
