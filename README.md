@@ -10,7 +10,7 @@
   <img align="left" alt="Tonmoy's Codeforces" width="30px" src="https://img.icons8.com/?size=100&id=jldAN67IAsrW&format=png&color=000000" />
 </a>
 <a href="https://x.com/tonmoyshuvro">
-  <img align="left" alt="Tonmoy's Twitter" width="48px" src="https://img.icons8.com/color/twitterx.png" />
+  <img align="left" alt="Tonmoy's Twitter" width="30px" src="https://freepnglogo.com/images/all_img/1707226109new-twitter-logo-png.png" />
 </a>
 
 <br />
