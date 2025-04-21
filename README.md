@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c326ed1b-afbe-4ef7-a3ab-eae4989c0195)### Hey 👋, I'm **Md Tonmoy Sarkar**, goes by **Tonmoy**!
+### Hey 👋, I'm **Md Tonmoy Sarkar**, goes by **Tonmoy**!
 
 <a href="https://www.linkedin.com/in/md-tonmoy-sarkar/">
   <img align="left" alt="Tonmoy's LinkedIn" width="30px" src="https://img.icons8.com/ios-filled/50/0077B5/linkedin.png" />
