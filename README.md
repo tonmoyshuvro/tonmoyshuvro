@@ -70,16 +70,9 @@ Hi, I'm **Md Tonmoy Sarkar**, a Senior Visualizer at *[Programming Hero](https:/
 
 
 ---
-<div align="center">
-
-## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/stats.png" width="35px" style="vertical-align:middle;" /> Tonmoy's GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=TonmoySarkar&theme=tokyonight&show_icons=true" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonmoySarkar&theme=tokyonight&layout=compact" />
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TonmoySarkar&theme=blue-green&hide_border=false" />
-
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+  <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/stats.png" width="35px" />
+  <h2 style="margin: 0;">Tonmoy's GitHub Stats</h2>
 </div>
 
 <p align="right">
