@@ -1,7 +1,7 @@
 # Hey 👋, I'm **Md Tonmoy Sarkar**, goes by **Tonmoy**!
 
 <a href="https://www.linkedin.com/in/tonmoy-sarkar/">
-  <img align="left" alt="Tonmoy's LinkedIn" width="30px" src="https://img.icons8.com/ios-filled/50/0077B5/linkedin.png" />
+  <img align="left" alt="Tonmoy's LinkedIn" width="30px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-icon.svg" />
 </a>
 <a href="https://stackoverflow.com/users/10683827/tonmoy-sarkar">
   <img align="left" alt="Tonmoy's StackOverflow" width="30px" src="https://img.icons8.com/ios-filled/50/F58025/stackoverflow.png" />
@@ -70,7 +70,18 @@ Hi, I'm **Md Tonmoy Sarkar**, a Senior Visualizer at *[Programming Hero](https:/
 
 
 ---
-### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/stats.png" width="35px" /> Tonmoy's github stats
+<div align="center">
+
+## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/stats.png" width="35px" style="vertical-align:middle;" /> Tonmoy's GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=TonmoySarkar&theme=tokyonight&show_icons=true" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonmoySarkar&theme=tokyonight&layout=compact" />
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TonmoySarkar&theme=blue-green&hide_border=false" />
+
+</div>
+
 <p align="right">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=TonmoySarkar&theme=tokyonight&show_icons=true" />
 
