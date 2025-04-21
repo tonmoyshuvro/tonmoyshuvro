@@ -1,4 +1,4 @@
-### Hey 👋, I'm **Md Tonmoy Sarkar**, goes by **Tonmoy**!
+![image](https://github.com/user-attachments/assets/c326ed1b-afbe-4ef7-a3ab-eae4989c0195)### Hey 👋, I'm **Md Tonmoy Sarkar**, goes by **Tonmoy**!
 
 <a href="https://www.linkedin.com/in/md-tonmoy-sarkar/">
   <img align="left" alt="Tonmoy's LinkedIn" width="30px" src="https://img.icons8.com/ios-filled/50/0077B5/linkedin.png" />
@@ -7,7 +7,7 @@
   <img align="left" alt="Tonmoy's StackOverflow" width="30px" src="https://img.icons8.com/ios-filled/50/F58025/stackoverflow.png" />
 </a>
 <a href="https://codeforces.com/profile/TonmoySarkar">
-  <img align="left" alt="Tonmoy's Codeforces" width="30px" src="https://img.icons8.com/ios-filled/50/1f8fff/code.png" />
+  <img align="left" alt="Tonmoy's Codeforces" width="30px" src="https://img.icons8.com/?size=100&id=jldAN67IAsrW&format=png&color=000000" />
 </a>
 <a href="https://twitter.com/TonmoySarkar2025">
   <img align="left" alt="Tonmoy's Twitter" width="30px" src="https://img.icons8.com/ios-filled/50/1DA1F2/twitter.png" />
@@ -31,16 +31,42 @@ Hi, I'm **Md Tonmoy Sarkar**, a Senior Visualizer at *[Programming Hero](https:/
 [![Gmail Badge](https://img.shields.io/badge/-tonmoy.sarkar.official@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tonmoy.sarkar.official@gmail.com)](mailto:tonmoy.sarkar.official@gmail.com)
 
 ---
-**Languages and Tools:**  
+### 🛠️ Languages and Tools
 
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/js/js.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/figma/figma.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/fd1d7063f494eff8d002f5eda9c38cd17e883b8f/topics/adobe-illustrator/adobe-illustrator.png"></code>
+<p align="left">
+  <!-- Programming Languages -->
+  <img src="https://img.icons8.com/color/48/python.png" alt="Python" title="Python"/>
+  <img src="https://img.icons8.com/color/48/c-programming.png" alt="C" title="C"/>
+  <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="C++" title="C++"/>
+  <img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript" title="JavaScript"/>
+  <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5" title="HTML5"/>
+  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" title="CSS3"/>
+  <img src="https://img.icons8.com/color/48/sql.png" alt="SQL" title="SQL"/>
+  <img src="https://img.icons8.com/color/48/latex.png" alt="LaTeX" title="LaTeX"/>
+  <img src="https://img.icons8.com/color/48/jupyter.png" alt="Jupyter Notebook" title="Jupyter Notebook"/>
+
+  <!-- Libraries & Frameworks -->
+  <img src="https://img.icons8.com/color/48/pytorch.png" alt="PyTorch" title="PyTorch"/>
+  <img src="https://img.icons8.com/color/48/tensorflow.png" alt="TensorFlow" title="TensorFlow"/>
+  <img src="https://img.icons8.com/color/48/scikit-learn.png" alt="Scikit-learn" title="Scikit-learn"/>
+  <img src="https://img.icons8.com/color/48/pandas.png" alt="Pandas" title="Pandas"/>
+  <img src="https://img.icons8.com/color/48/numpy.png" alt="NumPy" title="NumPy"/>
+  <img src="https://img.icons8.com/color/48/matplotlib.png" alt="Matplotlib" title="Matplotlib"/>
+  <img src="https://img.icons8.com/color/48/nltk.png" alt="NLTK" title="NLTK"/>
+  <img src="https://img.icons8.com/color/48/keras.png" alt="Keras" title="Keras"/>
+
+  <!-- Tools & Platforms -->
+  <img src="https://img.icons8.com/color/48/git.png" alt="Git" title="Git"/>
+  <img src="https://img.icons8.com/color/48/github.png" alt="GitHub" title="GitHub"/>
+  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code" title="VS Code"/>
+  <img src="https://img.icons8.com/color/48/pycharm.png" alt="PyCharm" title="PyCharm"/>
+  <img src="https://img.icons8.com/color/48/anaconda.png" alt="Anaconda" title="Anaconda"/>
+  <img src="https://img.icons8.com/color/48/google-colab.png" alt="Google Colab" title="Google Colab"/>
+  <img src="https://img.icons8.com/color/48/figma.png" alt="Figma" title="Figma"/>
+  <img src="https://img.icons8.com/color/48/adobe-illustrator.png" alt="Adobe Illustrator" title="Adobe Illustrator"/>
+  <img src="https://img.icons8.com/color/48/adobe-photoshop.png" alt="Adobe Photoshop" title="Adobe Photoshop"/>
+</p>
+
 
 ---
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/stats.png" width="35px" /> Tonmoy's github stats
