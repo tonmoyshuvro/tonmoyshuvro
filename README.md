@@ -28,7 +28,7 @@ Hi, I'm **Md Tonmoy Sarkar**, a Senior Visualizer at *[Programming Hero](https:/
 - 💬 Ask me about anything; I'm happy to help;
 - ⚡️ Fun-Fact: Besides my work in AI and design, I enjoy graphic design, mentoring, and teaching!
 - 📫 How to reach me: 
-[![Gmail Badge](https://img.shields.io/badge/-tonmoy.sarkar.official@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tonmoy.sarkar.official@gmail.com)](mailto:tonmoy.sarkar.official@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-tonmoycse98@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tonmoycse98@gmail.com)](mailto:tonmoycse98@gmail.com) or, [![Gmail Badge](https://img.shields.io/badge/-tonmoy@vu.edu.bd-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tonmoy@vu.edu.bd)](mailto:tonmoy@vu.edu.bd)
 
 ---
 ### 🛠️ Languages and Tools
