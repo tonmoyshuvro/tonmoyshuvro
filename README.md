@@ -18,7 +18,7 @@
 
 Hi, I'm **Md Tonmoy Sarkar**, a Senior Visualizer at *[Programming Hero](https://www.programming-hero.com/)*. I'm also a master's student with research interests in AI, NLP, Computer Vision, UX/UI Design, and Human-Computer Interaction. 
 
-  <img align="right" alt="GIF" width="80px" src="https://raw.githubusercontent.com/tonmoyshuvro/tonmoyshuvro/refs/heads/main/talking%20social%20media%20GIF%20by%20hi__bred.gif" />
+  <img align="right" alt="GIF" width="200px" src="https://raw.githubusercontent.com/tonmoyshuvro/tonmoyshuvro/refs/heads/main/talking%20social%20media%20GIF%20by%20hi__bred.gif" />
 
 ---
 **Talking about Personal Stuff:**
