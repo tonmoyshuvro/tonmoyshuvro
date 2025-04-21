@@ -1,16 +1,16 @@
 ### Hey 👋, I'm **Md Tonmoy Sarkar**, goes by **Tonmoy**!
 
-<a href="https://www.linkedin.com/in/md-tonmoy-sarkar/">
+<a href="https://www.linkedin.com/in/tonmoy-sarkar/">
   <img align="left" alt="Tonmoy's LinkedIn" width="30px" src="https://img.icons8.com/ios-filled/50/0077B5/linkedin.png" />
 </a>
-<a href="https://stackoverflow.com/users/13590227/md-tonmoy-sarkar/">
+<a href="https://stackoverflow.com/users/10683827/tonmoy-sarkar">
   <img align="left" alt="Tonmoy's StackOverflow" width="30px" src="https://img.icons8.com/ios-filled/50/F58025/stackoverflow.png" />
 </a>
-<a href="https://codeforces.com/profile/TonmoySarkar">
+<a href="https://codeforces.com/profile/tonmoyshuvro">
   <img align="left" alt="Tonmoy's Codeforces" width="30px" src="https://img.icons8.com/?size=100&id=jldAN67IAsrW&format=png&color=000000" />
 </a>
-<a href="https://twitter.com/TonmoySarkar2025">
-  <img align="left" alt="Tonmoy's Twitter" width="30px" src="https://img.icons8.com/ios-filled/50/1DA1F2/twitter.png" />
+<a href="https://x.com/tonmoyshuvro">
+  <img align="left" alt="Tonmoy's Twitter" width="30px" src="https://img.icons8.com/ios-filled/50/twitterx--v1.png" />
 </a>
 
 <br />
@@ -33,39 +33,41 @@ Hi, I'm **Md Tonmoy Sarkar**, a Senior Visualizer at *[Programming Hero](https:/
 ---
 ### 🛠️ Languages and Tools
 
+### 🛠️ Languages and Tools
+
 <p align="left">
-  <!-- Programming Languages -->
-  <img src="https://img.icons8.com/color/48/python.png" alt="Python" title="Python"/>
-  <img src="https://img.icons8.com/color/48/c-programming.png" alt="C" title="C"/>
-  <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="C++" title="C++"/>
-  <img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript" title="JavaScript"/>
-  <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5" title="HTML5"/>
-  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" title="CSS3"/>
-  <img src="https://img.icons8.com/color/48/sql.png" alt="SQL" title="SQL"/>
-  <img src="https://img.icons8.com/color/48/latex.png" alt="LaTeX" title="LaTeX"/>
-  <img src="https://img.icons8.com/color/48/jupyter.png" alt="Jupyter Notebook" title="Jupyter Notebook"/>
+  <!-- Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="SQL"/>
+  
+  <!-- Data Science / ML -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="Matplotlib"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="Scikit-learn"/>
 
-  <!-- Libraries & Frameworks -->
-  <img src="https://img.icons8.com/color/48/pytorch.png" alt="PyTorch" title="PyTorch"/>
-  <img src="https://img.icons8.com/color/48/tensorflow.png" alt="TensorFlow" title="TensorFlow"/>
-  <img src="https://img.icons8.com/color/48/scikit-learn.png" alt="Scikit-learn" title="Scikit-learn"/>
-  <img src="https://img.icons8.com/color/48/pandas.png" alt="Pandas" title="Pandas"/>
-  <img src="https://img.icons8.com/color/48/numpy.png" alt="NumPy" title="NumPy"/>
-  <img src="https://img.icons8.com/color/48/matplotlib.png" alt="Matplotlib" title="Matplotlib"/>
-  <img src="https://img.icons8.com/color/48/nltk.png" alt="NLTK" title="NLTK"/>
-  <img src="https://img.icons8.com/color/48/keras.png" alt="Keras" title="Keras"/>
+  <!-- Tools / IDEs -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="PyCharm"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="Anaconda"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="Google Colab"/>
 
-  <!-- Tools & Platforms -->
-  <img src="https://img.icons8.com/color/48/git.png" alt="Git" title="Git"/>
-  <img src="https://img.icons8.com/color/48/github.png" alt="GitHub" title="GitHub"/>
-  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code" title="VS Code"/>
-  <img src="https://img.icons8.com/color/48/pycharm.png" alt="PyCharm" title="PyCharm"/>
-  <img src="https://img.icons8.com/color/48/anaconda.png" alt="Anaconda" title="Anaconda"/>
-  <img src="https://img.icons8.com/color/48/google-colab.png" alt="Google Colab" title="Google Colab"/>
-  <img src="https://img.icons8.com/color/48/figma.png" alt="Figma" title="Figma"/>
-  <img src="https://img.icons8.com/color/48/adobe-illustrator.png" alt="Adobe Illustrator" title="Adobe Illustrator"/>
-  <img src="https://img.icons8.com/color/48/adobe-photoshop.png" alt="Adobe Photoshop" title="Adobe Photoshop"/>
+  <!-- UI / Design -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="Photoshop"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="Illustrator"/>
 </p>
+
 
 
 ---
@@ -81,16 +83,3 @@ Hi, I'm **Md Tonmoy Sarkar**, a Senior Visualizer at *[Programming Hero](https:/
 
 ---
 [![](https://visitcount.itsvg.in/api?id=TonmoySarkar&label=Profile%20Views&color=4&icon=0&pretty=true)](https://visitcount.itsvg.in)
-
----
-⭐️ From [TonmoySarkar](https://github.com/TonmoySarkar)
-
-
-<a href="https://github.com/TonmoySarkar/AI-Research">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=TonmoySarkar&repo=AI-Research" />
-</a>
-
-
-<a href="https://github.com/TonmoySarkar/UX-Design-Portfolio">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=TonmoySarkar&repo=UX-Design-Portfolio" />
-</a>
