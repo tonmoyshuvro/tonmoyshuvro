@@ -23,10 +23,10 @@ Hi, I'm **Md Tonmoy Sarkar**, a Senior Visualizer at *[Programming Hero](https:/
 ---
 **Talking about Personal Stuff:**
 
-- 🌱 I’m currently learning more about Large Language Models and Computer Vision.
-- 👯 I’m looking forward to collaborating on AI, NLP, & Computer Vision-based research projects 🤝;
-- 💬 Ask me about anything; I'm happy to help;
-- ⚡️ Fun-Fact: Besides my work in AI and design, I enjoy graphic design, mentoring, and teaching!
+- 🌱 I’m currently working on Large Language Models (LLMs), exploring their capabilities in natural language understanding, generation, and task-specific fine-tuning.
+- 👯 I’m looking forward to collaborating on NLP, LLM & Computer Vision-based research projects 🤝
+- 💬 Ask me about anything; I'm happy to help
+- ⚡️ Fun-Fact: Besides my work in AI and design, I enjoy visual design, mentoring, and teaching!
 - 📫 How to reach me: 
 [![Gmail Badge](https://img.shields.io/badge/-tonmoycse98@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tonmoycse98@gmail.com)](mailto:tonmoycse98@gmail.com) or, [![Gmail Badge](https://img.shields.io/badge/-tonmoy@vu.edu.bd-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tonmoy@vu.edu.bd)](mailto:tonmoy@vu.edu.bd)
 
