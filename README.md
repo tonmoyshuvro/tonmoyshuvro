@@ -70,10 +70,11 @@ Hi, I'm **Md Tonmoy Sarkar**, a Senior Visualizer at *[Programming Hero](https:/
 
 
 ---
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px;">
-  <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/stats.png" width="35px" />
-  <h2 style="margin: 0;">Tonmoy's GitHub Stats</h2>
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/stats.png" width="35px" style="vertical-align: middle;" />
+  <span style="font-size: 1.5em; vertical-align: middle;">Tonmoy's GitHub Stats</span>
+</p>
+
 
 <p align="right">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=TonmoySarkar&theme=tokyonight&show_icons=true" />
