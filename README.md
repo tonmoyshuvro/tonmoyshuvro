@@ -23,9 +23,8 @@ Hi, I'm **Md Tonmoy Sarkar**, a Senior Visualizer at *[Programming Hero](https:/
 ---
 **Talking about Personal Stuff:**
 
-- 🌱 I’m currently working on Large Language Models (LLMs), exploring their capabilities in natural language understanding, generation, and task-specific fine-tuning.
-- 👯 I’m looking forward to collaborating on NLP, LLM & Computer Vision-based research projects 🤝
-- 💬 Ask me about anything; I'm happy to help
+- ⛳️ I'm currently working on topic modeling in NLP, topic extraction, text generation, RAG, vector search, and task-specific fine-tuning, as well as exploring public datasets and implementing LLM models on them to find insights.
+- 🤝 I’m looking forward to collaborating on NLP, LLM, Computer Vision, & Human-Computer Interaction-based research projects.
 - ⚡️ Fun-Fact: Besides my work in AI and design, I enjoy visual design, mentoring, and teaching!
 - 📫 How to reach me: 
 [![Gmail Badge](https://img.shields.io/badge/-tonmoycse98@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tonmoycse98@gmail.com)](mailto:tonmoycse98@gmail.com) or, [![Gmail Badge](https://img.shields.io/badge/-tonmoy@vu.edu.bd-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tonmoy@vu.edu.bd)](mailto:tonmoy@vu.edu.bd)
@@ -39,13 +38,14 @@ Hi, I'm **Md Tonmoy Sarkar**, a Senior Visualizer at *[Programming Hero](https:/
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="Dart"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="SQL"/>
   
   <!-- Data Science / ML -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy"/>
@@ -54,10 +54,6 @@ Hi, I'm **Md Tonmoy Sarkar**, a Senior Visualizer at *[Programming Hero](https:/
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="Scikit-learn"/>
 
   <!-- Tools / IDEs -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="PyCharm"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="Anaconda"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="Google Colab"/>
 
