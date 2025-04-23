@@ -23,7 +23,7 @@ Hi, I'm **Md Tonmoy Sarkar**, a Senior Visualizer at *[Programming Hero](https:/
 ---
 **Talking about Personal Stuff:**
 
-- ⛳️ I'm currently working on topic modeling in NLP, topic extraction, text generation, RAG, vector search, and task-specific fine-tuning, as well as exploring public datasets and implementing LLM models on them to find insights.
+- ⛳️ I'm currently working on topic modeling in NLP, topic extraction, text generation, RAG, vector search, and task-specific fine-tuning, as well as exploring public datasets and implementing LLM models to find insights.
 - 🤝 I’m looking forward to collaborating on NLP, LLM, Computer Vision, & Human-Computer Interaction-based research projects.
 - ⚡️ Fun-Fact: Besides my work in AI and design, I enjoy visual design, mentoring, and teaching!
 - 📫 How to reach me: 
